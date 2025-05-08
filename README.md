@@ -37,9 +37,10 @@ This program reads, displays, and manages tasks stored in a text file.
 ```bash
 g++ -o TaskManager Main.cpp Task.cpp TaskGroup.cpp
 ./TaskManager
+```
 
 
-## 📏 How to run
+### 📏 How to run
 
 Place tasks.txt in the same folder as the executable
 
@@ -50,7 +51,7 @@ Place tasks.txt in the same folder as the executable
 ✅ Any changes will be saved back into tasks.txt.
 
 
-## 📝 Notes
+### 📝 Notes
 
  - tasks.txt must follow the expected format (one task per line, fields separated appropriately)
 
